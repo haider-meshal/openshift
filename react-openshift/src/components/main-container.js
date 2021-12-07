@@ -11,21 +11,12 @@ export default class MainContainer extends Component {
     this.state = {
       coins:[],
     }
-    this.url = 'https://thingproxy.freeboard.io/fetch/https://api.coinone.co.kr/ticker?currency=all'
-    this.headers = {
-      'content-type': 'application/json',
-      'accept': 'application/json',
-    };
-
-    this.options = {
-      headers: this.headers,
-      timeout: 5000,
-    };
+    this.url = 'data.json'
   }
   currencies = {};
 
   getData(){
-    axios.get(this.url,this.options)
+    axios.get(this.url)
     .then(result => {
       
       let data = result.data;
