@@ -56,7 +56,7 @@ export default class MainContainer extends Component {
         <div className="row">
           <div className="col s12">
             <div className="section">
-              <h3 className="header">Cryptocurrency Monitor</h3>
+              <h3 className="header">Demo: Deploy NodeJS in Openshift</h3>
             </div>
           </div>
         </div>

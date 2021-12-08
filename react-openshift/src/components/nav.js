@@ -11,6 +11,7 @@ export default class Nav extends Component {
               <li><a href="/">HOME</a></li>
               <li><a href="https://www.facebook.com">FACEBOOK</a></li>
               <li><a href="https://www.linkedin.com">LINKED IN</a></li>
+              <li><a href="https://github.com/haider-meshal/openshift">Github</a></li>
             </ul>
           </div>
         </nav>
