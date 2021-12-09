@@ -1,0 +1,571 @@
+{
+    "title": {
+        "en": "ECOMMERCE",
+        "ar": "ECOMMERCE"
+    },
+    "navigator": {
+        "en": {
+            "toggle": "Toggle",
+            "home": {
+                "title": "iWant",
+                "href": "#header"
+            },
+            "items": [
+                {
+                    "title": "Features",
+                    "href": "#features"
+                },
+                {
+                    "title": "About",
+                    "href": "#about"
+                },
+                {
+                    "title": "Services",
+                    "href": "#services"
+                },
+                {
+                    "title": "Portfolio",
+                    "href": "#portfolio"
+                },
+                {
+                    "title": "Testimonials",
+                    "href": "#testimonials"
+                },
+                {
+                    "title": "Team",
+                    "href": "#team"
+                },
+                {
+                    "title": "Contact",
+                    "href": "#contact"
+                }
+            ]
+        },
+        "ar": {
+            "toggle": "Toggle",
+            "home": {
+                "title": "iWant",
+                "href": "#header"
+            },
+            "items": [
+                {
+                    "title": "Features",
+                    "href": "#features"
+                },
+                {
+                    "title": "About",
+                    "href": "#about"
+                },
+                {
+                    "title": "Services",
+                    "href": "#services"
+                },
+                {
+                    "title": "Portofolio",
+                    "href": "#portofolio"
+                },
+                {
+                    "title": "Testimonials",
+                    "href": "#testimonials"
+                },
+                {
+                    "title": "Team",
+                    "href": "#team"
+                },
+                {
+                    "title": "Contact",
+                    "href": "#contact"
+                }
+            ]
+        }
+    },
+    "introduction": {
+        "en": {
+            "title": "Who We Are?",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+            "more": "Learn More",
+            "href": "#features"
+        },
+        "ar": {
+            "title": "نحن",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+            "more": "Learn More",
+            "href": "#features"
+        }
+    },
+    "features": {
+        "en": {
+            "title": "FEATURES Title",
+            "items": [
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-cart-arrow-down"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-language"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-pie-chart"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-plane"
+                }
+            ]
+        },
+        "ar": {
+            "title": "FEATURES Title",
+            "items": [
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-cart-arrow-down"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-language"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-pie-chart"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-plane"
+                }
+            ]
+        }
+    },
+    "aboutus": {
+        "en": {
+            "title": "Aboutus Title",
+            "description": "Aboutus Description",
+            "header": "Aboutus Header",
+            "image": "/images/about.jpg",
+            "lists": [
+                [
+                    "line 1",
+                    "line 2",
+                    "line 3"
+                ],
+                [
+                    "line 1",
+                    "line 2",
+                    "line 3"
+                ]
+            ]
+        },
+        "ar": {
+            "title": "Aboutus Title",
+            "description": "Aboutus Description",
+            "header": "Aboutus Header",
+            "image": "/images/about.jpg",
+            "lists": [
+                [
+                    "line 1",
+                    "line 2",
+                    "line 3"
+                ],
+                [
+                    "line 1",
+                    "line 2",
+                    "line 3"
+                ]
+            ]
+        }
+    },
+    "services": {
+        "en": {
+            "title": "Services Title",
+            "description": "Services Description",
+            "items": [
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-cart-arrow-down"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-language"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-pie-chart"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-plane"
+                }
+            ]
+        },
+        "ar": {
+            "title": "Services Title",
+            "description": "Services Description",
+            "items": [
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-cart-arrow-down"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-language"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-pie-chart"
+                },
+                {
+                    "title": "Title",
+                    "content": "xxxxxxxxxxxxxxxxxxxxxxx",
+                    "icon_font_class": "fa-plane"
+                }
+            ]
+        }
+    },
+    "portfolio": {
+        "en": {
+            "title": "Portfolio TITLE",
+            "description": "Portfolio Description",
+            "items": [
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/01-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/01-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/02-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/02-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/03-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/03-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/04-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/04-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/05-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/05-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/06-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/06-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/07-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/07-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/08-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/08-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/09-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/09-large.jpg",
+                    "image_large_title": "image large title"
+                }
+            ]
+        },
+        "ar": {
+            "title": "Portfolio TITLE",
+            "description": "Description",
+            "items": [
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/01-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/01-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/02-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/02-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/03-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/03-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/04-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/04-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/05-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/05-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/06-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/06-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/07-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/07-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/08-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/08-large.jpg",
+                    "image_large_title": "image large title"
+                },
+                {
+                    "title": "Title",
+                    "image_small": "/images/portfolio/09-small.jpg",
+                    "image_small_title": "image small title",
+                    "image_large": "/images/portfolio/09-large.jpg",
+                    "image_large_title": "image large title"
+                }
+            ]
+        }
+    },
+    "testimonials": {
+        "en": {
+            "title": "Testimonials Title",
+            "items": [
+                {
+                    "image": "/images/testimonials/01.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/02.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/03.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/04.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/05.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/06.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                }
+            ]
+        },
+        "ar": {
+            "title": "Testimonials Title",
+            "items": [
+                {
+                    "image": "/images/testimonials/01.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/02.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/03.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/04.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/05.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                },
+                {
+                    "image": "/images/testimonials/06.jpg",
+                    "image_title": "Image",
+                    "paragraph": "Testimonial Paragraph",
+                    "name": "Testimonial Name"
+                }
+            ]
+        }
+    },
+    "team": {
+        "en": {
+            "title": "Team TITLE",
+            "description": "Team Description",
+            "items": [
+                {
+                    "image": "/images/team/01.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                },
+                {
+                    "image": "/images/team/02.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                },
+                {
+                    "image": "/images/team/03.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                },
+                {
+                    "image": "/images/team/04.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                }
+            ]
+        },
+        "ar": {
+            "title": "Team TITLE",
+            "description": "Team Description",
+            "items": [
+                {
+                    "image": "/images/team/01.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                },
+                {
+                    "image": "/images/team/02.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                },
+                {
+                    "image": "/images/team/03.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                },
+                {
+                    "image": "/team/04.jpg",
+                    "image_title": "Image",
+                    "name": "Member Name",
+                    "position": "Member Position"
+                }
+            ]
+        }
+    },
+    "contact": {
+        "en": {
+            "title": "Contact Title",
+            "description": "Contact Description",
+            "name_placeholder": "Name",
+            "email_placeholder": "Email",
+            "message_placeholder": "Message",
+            "send": "Send",
+            "addressTitle": "Address",
+            "address1": "Contact Address 1",
+            "address2": "Contact Address 2",
+            "phoneTitle": "Phone",
+            "phone": "+965xxxxxx",
+            "emailTitle": "Email",
+            "email": "myemail@gmail.com",
+            "facebook": "http://www.facebook.com",
+            "twitter": "www.twitter.com",
+            "google": "www.google.com",
+            "youtube": "www.youtube.com"
+        },
+        "ar": {
+            "title": "Contact Title",
+            "description": "Contact Description",
+            "name_placeholder": "Name",
+            "email_placeholder": "Email",
+            "message_placeholder": "Message",
+            "send": "Send",
+            "addressTitle": "Address",
+            "address1": "Contact Address 1",
+            "address2": "Contact Address 2",
+            "phoneTitle": "Phone",
+            "phone": "+965xxxxxx",
+            "emailTitle": "Email",
+            "email": "myemail@gmail.com",
+            "facebook": "www.facebook.com",
+            "twitter": "www.twitter.com",
+            "google": "www.google.com",
+            "youtube": "www.youtube.com"
+        }
+    },
+    "footer": {
+        "copyright": "2018 CMS. Design by",
+        "url": "http://www.google.com",
+        "title": "iWant"
+    }
+}

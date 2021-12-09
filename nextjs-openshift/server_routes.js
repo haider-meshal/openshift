@@ -1,0 +1,10 @@
+const routes = require('next-routes')
+
+module.exports = routes()
+.add('en_home', '/', 'home')
+.add('ar_home', '/ar', 'home')
+ .add('aboutus', '/aboutus', 'aboutus')
+// .add('contactus', '/contactus', 'contactus')
+// .add('services', '/services', 'services')
+// .add('signin', '/signin', 'signin')
+// .add('signup', '/signup', 'signup')
