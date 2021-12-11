@@ -7,7 +7,7 @@ pipeline{
         steps{
           script{
             try{
-               sh 'oc delete all -l app=nextjs-openshift'
+               sh 'oc delete all -l app=nextjs-openshift-pipeline'
             }catch(Exception e){
                sh 'echo nextjs-openshift old version not removed'
             }
@@ -18,7 +18,7 @@ pipeline{
      stage('Setup nextjs-openshift new version'){
         steps{
            sh 'oc new-app nodejs:12~https:github.com/haider-meshal/openshift  --name=nextjs-openshift-pipeline --context-dir=nextjs-openshift '
-           sh 'oc expose sve/nextjs-openshift-pipleline'
+           sh 'oc expose svc/nextjs-openshift-pipleline'
         }
      }
   }
