@@ -21,5 +21,6 @@ pipeline {
                 binaryBuild(buildConfigName: appName, buildFromPath: "./nextjs-openshift")
             }
         }
+        //NEED TO PULL THE IMAGE FROM DOCKER HUB, DEPLOY AND RUN
     }
 }

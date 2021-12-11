@@ -1,0 +1,26 @@
+pipeline{
+   agent{
+      label "master"
+   }
+  stages{
+     stage('Remove nextjs-openshift old version'){
+        steps{
+          script{
+            try{
+               sh 'oc delete all l app=nextjs-openshift'
+            }catch(Exception e){
+               sh 'echo nextjs-openshift old version not removed'
+            }
+          }
+        }
+     }
+
+     stage('Setup nextjs-openshift new version'){
+        steps{
+           sh 'oc image-import --from=registry.access.redhat.com/rhscl/nodejs-12-rhel7 s2i-nodejs-12 --confirm'
+           sh 'oc new-app s2i-nodejs-12~https:github.com/haider-meshal/openshift  --name=nextjs-openshift-pipeline --context-dir=nextjs-openshift '
+           sh 'oc expose sve/nextjs-openshift-pipleline'
+        }
+     }
+  }
+}
