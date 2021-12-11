@@ -17,8 +17,7 @@ pipeline{
 
      stage('Setup nextjs-openshift new version'){
         steps{
-           sh 'oc import-image --from=registry.access.redhat.com/rhscl/nodejs-16-rhel7 s2i-nodejs-12 --confirm'
-           sh 'oc new-app s2i-nodejs-12~https:github.com/haider-meshal/openshift  --name=nextjs-openshift-pipeline --context-dir=nextjs-openshift '
+           sh 'oc new-app nodejs:12~https:github.com/haider-meshal/openshift  --name=nextjs-openshift-pipeline --context-dir=nextjs-openshift '
            sh 'oc expose sve/nextjs-openshift-pipleline'
         }
      }
