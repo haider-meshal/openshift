@@ -9,7 +9,7 @@ retriever: modernSCM(
 appName = "nextjs-openshift"
 
 pipeline {
-    agent { label "node" }
+    agent { label "nodejs" }
     stages {
         stage("Checkout") {
             steps {
