@@ -17,7 +17,7 @@ pipeline{
 
      stage('Setup nextjs-openshift new version'){
         steps{
-           sh 'oc new-app nodejs:12~https:github.com/haider-meshal/openshift  --name=nextjs-openshift-pipeline --context-dir=nextjs-openshift '
+           sh 'oc new-app nodejs:12~https://github.com/haider-meshal/openshift.git --name=nextjs-openshift-pipeline --context-dir=nextjs-openshift '
            sh 'oc expose svc/nextjs-openshift-pipleline'
         }
      }
